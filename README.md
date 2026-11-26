@@ -1,8 +1,8 @@
 # Hi, I'm Khaled Agina 👋
 
-**Front-end developer · CS & AI student at Delta University for Science and Technology, Egypt**
+**AI student · Web development · Delta University for Science and Technology, Egypt**
 
-I build clean, responsive interfaces with HTML and CSS, and I'm currently leveling up in JavaScript, TypeScript, React and Next.js. I enjoy turning design files into pixel-perfect, accessible web pages.
+I'm an AI student who studies and builds in web development. I design and code responsive, accessible interfaces and real projects with JavaScript, with TypeScript, React and Next.js as my current focus.
 
 ## 🛠️ Tech stack
 
