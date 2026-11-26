@@ -18,9 +18,15 @@ I build clean, responsive interfaces with HTML and CSS, and I'm currently leveli
 
 | Project | What it is | Live demo |
 | --- | --- | --- |
-| [Order summary card](https://github.com/khaledagina/order-summary-component) | Responsive order summary card component (Frontend Mentor challenge) | [Live site](https://khaledagina.github.io/order-summary-component/) |
-| [Single price grid](https://github.com/khaledagina/single-price-grid-component) | Responsive pricing grid component (Frontend Mentor challenge) | [Live site](https://khaledagina.github.io/single-price-grid-component/) |
+| [Portfolio](https://github.com/khaledagina/fcc-personal-portfolio) | My personal portfolio (freeCodeCamp certification project, redesigned) | [Live site](https://khaledagina.github.io/fcc-personal-portfolio/) |
+| [Tribute page](https://github.com/khaledagina/fcc-tribute-page) | Tribute page about Elon Musk (freeCodeCamp project, redesigned) | [Live site](https://khaledagina.github.io/fcc-tribute-page/) |
+| [Focusly landing page](https://github.com/khaledagina/fcc-product-landing-page) | Landing page for a fictional focus-timer app (freeCodeCamp project, redesigned) | [Live site](https://khaledagina.github.io/fcc-product-landing-page/) |
+| [JavaScript Starter Docs](https://github.com/khaledagina/fcc-technical-documentation-page) | Beginner JavaScript reference (freeCodeCamp project, redesigned) | [Live site](https://khaledagina.github.io/fcc-technical-documentation-page/) |
+| [Learning Journey Survey](https://github.com/khaledagina/fcc-survey-form) | Survey form with live progress (freeCodeCamp project, redesigned) | [Live site](https://khaledagina.github.io/fcc-survey-form/) |
+| [Order summary card](https://github.com/khaledagina/order-summary-component) | Frontend Mentor challenge | [Live site](https://khaledagina.github.io/order-summary-component/) |
+| [Single price grid](https://github.com/khaledagina/single-price-grid-component) | Frontend Mentor challenge | [Live site](https://khaledagina.github.io/single-price-grid-component/) |
 
 ## 📫 Reach me
 
 - GitHub: [@khaledagina](https://github.com/khaledagina)
+- LinkedIn: [khaled-agina](https://www.linkedin.com/in/khaled-agina-48b07830b)
